@@ -9,5 +9,8 @@
   "piano-miss-played": {
     "cs4": "piano-miss-played/795602__vizaion__piano-c-octave-miss-played.wav"
   },
-  "bash": "brett/ShortUnpitched.wav"
+  "bash": "brett/ShortUnpitched.wav",
+  "lacemachine": "lacemachine/lacemachine_hh.wav"
+  "industry_mbience": "industry_ambient/industry_ambient.wav"
+  "vizaion_pino": "vizaion_pino/vizaion__piano-c-2.wav"
 }
