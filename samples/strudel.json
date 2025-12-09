@@ -1,7 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/stevenaeola/amc_2526/main/samples/",
-  "swallows": "swallows/barnswallowsongcallvoicesound.wav"
-  "sheep": "Jack/sheep.wav"
-  "thud": "Jack/thud.wav"
+  "swallows": "swallows/barnswallowsongcallvoicesound.wav",
+  "sheep": "Jack/sheep.wav",
+  "thud": "Jack/thud.wav",
   "u_piano": "Jack/u_piano.wav"
 }
