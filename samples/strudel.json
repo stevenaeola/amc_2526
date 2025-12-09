@@ -1,6 +1,10 @@
 {
   "_base": "https://raw.githubusercontent.com/stevenaeola/amc_2526/main/samples/",
   "swallows": "swallows/barnswallowsongcallvoicesound.wav",
+  "bash": "brett/ShortUnpitched.wav",
+  "musicbox": "jacob/note.wav",
+  "pop": "jacob/unpitched.wav",
+  "fan": "jacob/ambient.wav",
   "eggcrack": "will/egg_cracking_short.wav",
   "chickens": "will/ambient_chicken.wav",
   "chickenbites": "will/chicken_bites.wav",
