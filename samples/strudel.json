@@ -1,6 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/stevenaeola/amc_2526/main/samples/",
   "swallows": "swallows/barnswallowsongcallvoicesound.wav",
+  "sheep": "Jack/sheep.wav",
+  "thud": "Jack/thud.wav",
+  "u_piano": "Jack/u_piano.wav",
   "kickin-wing": "kickin-wing/826758__tboneaudio__kickin-wing.wav",
   "pajaros-en-el-rio": "pajaros-en-el-rio/836713__dani3lns__03-pajaros-en-el-rio.wav",
   "piano-miss-played": {
